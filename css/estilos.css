@@ -1,0 +1,90 @@
+#Aplicadobject
+*{
+ margin: 10;
+ padding: 0;
+ box-sizing: border-box;
+}
+/*estilos generales de la página*/
+body
+{font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: darkred;
+    color: beige;
+}
+/*Definir el encabezado*/
+header{ 
+    background-color: black;
+    padding: 20px;
+    text-align: center;
+    box-shadow: 0px 4px 8px rgb(255, 255, 255);
+}
+/*Estilos del logo*/
+logo{
+    width: 100px;
+}
+/*Estilos del navegador*/
+nav ul{ 
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+}
+/*Estilos de los items de la lista*/
+nav ul li{ 
+    margin: 0 15px;
+}
+/*Estilos a los enlaces del navegador*/
+nav ul li a{
+    color: beige;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+nav ul li a:hover{
+    text-decoration: underline;
+    color: brown;
+}
+/*Estilo del area principa*/
+main{
+    padding: 30px;
+    text-align: center;
+}
+/*Estilos de seción*/
+section{
+    margin-bottom: 40px;
+    padding: 20px;
+    background: rgb(47, 1, 1);
+    border-radius: 10px;
+    box-shadow: 0px 4px 8px rgb(255, 254, 254);
+}
+/*pie de página*/
+footer{
+    background-color: black;
+    color:beige;
+    text-align: center;
+    padding: 20px;
+    margin: top 20px; ;
+}
+/*Estilo de Imagen*/
+img{
+    width: 100%;
+    height: auto;
+    margin-top: 15px;
+    border-radius: 8px;
+}
+/*Estilos de trjetas*/
+.tarjetas{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    margin-top: 20px;
+}
+/*Estilos de cada tarjeta*/
+.tarjeta{
+    background-color: rgb(193, 7, 7);
+    padding: 20px;
+    border: 2px solid #ffffff;
+    border-radius: 10px;
+    width: 25%;
+    margin: 10px;
+    box-shadow: 0px 2px 6px rgba(0, 0, 0, 1);
+}
