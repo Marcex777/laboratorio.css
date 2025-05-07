@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Plan Premium</title>
+  <link rel="stylesheet" href="../css/estilos.css" />
+</head>
+<body>
+  <main class="contenedor">
+    <h1>Plan Premium</h1>
+    <img src="../img/Plan_premium.jpeg" alt="Plan Premium" class="imagen-equipo" />
+    <p>El Plan Premium es nuestra solución más completa. Incluye sitio web avanzado, tienda online, campañas publicitarias y analítica web. Ideal para marcas que buscan expansión sólida.</p>
+    <p>Desarrollado como parte del portafolio académico de <strong>Marcelo Rodríguez</strong> (Negocios Digitales), demostrando competencias digitales aplicadas.</p>
+    <a href="../servicios.html" class="btn-info">← Volver a Servicios</a>
+  </main>
+</body>
+</html>

@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Plan Estándar</title>
+  <link rel="stylesheet" href="../css/estilos.css" />
+</head>
+<body>
+  <main class="contenedor">
+    <h1>Plan Estándar</h1>
+    <img src="../img/Plan_estandar.jpeg" alt="Plan Estándar" class="imagen-equipo" />
+    <p>Este plan está dirigido a negocios que desean mejorar su visibilidad digital y consolidar su marca en línea. Incluye diseño personalizado, SEO básico y soporte continuo.</p>
+    <p>Forma parte del proyecto de <strong>Marcelo Rodríguez</strong> en la carrera de <em>Negocios Digitales</em>, demostrando habilidades prácticas en diseño web profesional.</p>
+    <a href="../servicios.html" class="btn-info">← Volver a Servicios</a>
+  </main>
+</body>
+</html>

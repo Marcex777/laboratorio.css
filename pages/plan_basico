@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Plan Básico</title>
+  <link rel="stylesheet" href="../css/estilos.css" />
+</head>
+<body>
+  <main class="contenedor">
+    <h1>Plan Básico</h1>
+    <img src="../img/Plan_basico.jpeg" alt="Plan Básico" class="imagen-equipo" />
+    <p>Este plan es ideal para emprendedores que están dando sus primeros pasos en el entorno digital. Está pensado para quienes desean una presencia en internet sencilla pero profesional.</p>
+    <p>Desarrollado por <strong>Marcelo Rodríguez</strong>, estudiante de <em>Negocios Digitales</em>, como parte de un proyecto académico enfocado en soluciones web accesibles.</p>
+    <a href="../servicios.html" class="btn-info">← Volver a Servicios</a>
+  </main>
+</body>
+</html>
