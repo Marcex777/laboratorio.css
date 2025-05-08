@@ -1,43 +1,59 @@
-# Título del Proyecto
-CSS Taller
+# 📘 Título del Proyecto  
+**CSS Taller – Sitio Web de Emprendimiento Digital**
 
-_Acá va un párrafo que describa lo que es el proyecto_
-
-## Comenzando 🚀
-
-_Estas instrucciones te permitirán obtener una copia del proyecto de css para una página web._
-
-
-
-
-## Construido con 🛠️
-
-_Menciona las herramientas que utilizaste para crear tu proyecto_
-* [Visual Studio Code](https://code.visualstudio.com/)
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) 
-* [Maven](https://maven.apache.org/) - Manejador de dependencias
-* [ROME](https://rometools.github.io/rome/) - Usado para generar RSS
-
-
-
-## Autores ✒️
-
-_Menciona a todos aquellos que ayudaron a levantar el proyecto desde sus inicios_
-
-* **Marcelo Rodriguez** - *Trabajo Inicial* - [mrodriguezm9@est.ups.edu.ec](https://github.com/Marcex777)
-
-
-
-
-## Expresiones de Gratitud 🎁
-
-* Comenta a otros sobre este proyecto 📢
-* Invita una cerveza 🍺 o un café ☕ a alguien del equipo. 
-* Da las gracias públicamente 🤓.
-* Dona con cripto a esta dirección: `0xf253fc233333078436d111175e5a76a649890000`
-* etc.
-
-
+_Aplicación web creada como parte del taller de Hojas de Estilo en la carrera de Negocios Digitales. Se desarrolla un sitio web profesional ficticio con navegación entre páginas, diseño responsivo y estilos personalizados en CSS._
 
 ---
-⌨️ con ❤️ por [Marcex777](https://github.com/Marcex777) 😊
+
+## 🚀 Comenzando
+
+_Estas instrucciones te permitirán obtener una copia del proyecto y visualizarlo localmente._
+
+### 🔧 Requisitos
+
+- Tener instalado [Visual Studio Code](https://code.visualstudio.com/)
+- Tener Git instalado (opcional)
+- Navegador moderno (Chrome, Firefox, Edge)
+
+### 📥 Clonar el repositorio
+
+```bash
+git clone https://github.com/Marcex777/emprendimiento-digital.git
+cd emprendimiento-digital
+
+🛠️ Construido con
+Visual Studio Code
+
+HTML5 y CSS3
+
+Git y GitHub
+
+Live Server (VS Code)
+
+✨ Características
+Navegación completa entre páginas
+
+Diseño responsive para móviles
+
+Tarjetas con imágenes, estilos y botones
+
+Efectos hover, box-shadow y transiciones suaves
+
+Paleta moderna (azul, celeste, morado)
+
+Footer fijo y organización profesional
+
+✒️ Autor
+Marcelo Rodríguez Montes
+Estudiante de Negocios Digitales – UPS
+📧 mrodriguezm9@est.ups.edu.ec
+🔗 GitHub - Marcex777
+
+🎁 Expresiones de Gratitud
+Gracias al docente por la guía 👨‍🏫
+
+Gracias a GitHub, VS Code y Live Server
+
+Si te gustó, deja una ⭐ o compártelo ☕
+
+¡Buen trabajo equipo y a seguir creciendo! 🚀
