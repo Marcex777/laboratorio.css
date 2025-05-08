@@ -1,15 +1,15 @@
 # 📘 Título del Proyecto  
 **CSS Taller – Sitio Web de Emprendimiento Digital**
 
-_Aplicación web creada como parte del taller de Hojas de Estilo en la carrera de Negocios Digitales. Se desarrolla un sitio web profesional ficticio con navegación entre páginas, diseño responsivo y estilos personalizados en CSS._
+Aplicación web creada como parte del taller de Hojas de Estilo en la carrera de Negocios Digitales. Se desarrolla un sitio web profesional ficticio con navegación entre páginas, diseño responsivo y estilos personalizados en CSS.
 
 ---
 
 ## 🚀 Comenzando
 
-_Estas instrucciones te permitirán obtener una copia del proyecto y visualizarlo localmente._
+Estas instrucciones te permitirán obtener una copia del proyecto y visualizarlo localmente.
 
-### 🔧 Requisitos
+### 🛠 Requisitos
 
 - Tener instalado [Visual Studio Code](https://code.visualstudio.com/)
 - Tener Git instalado (opcional)
@@ -20,40 +20,46 @@ _Estas instrucciones te permitirán obtener una copia del proyecto y visualizarl
 ```bash
 git clone https://github.com/Marcex777/emprendimiento-digital.git
 cd emprendimiento-digital
+```
 
-🛠️ Construido con
-Visual Studio Code
+---
 
-HTML5 y CSS3
+## 🧰 Construido con
 
-Git y GitHub
+- Visual Studio Code
+- HTML5 y CSS3
+- Git y GitHub
+- Live Server (extensión de VS Code)
 
-Live Server (VS Code)
+---
 
-✨ Características
-Navegación completa entre páginas
+## ✨ Características
 
-Diseño responsive para móviles
+- Navegación completa entre páginas
+- Diseño responsive para móviles
+- Tarjetas con imágenes, estilos y botones
+- Efectos hover, transiciones suaves, box shadows
+- Footer fijo y diseño adaptado a branding digital
+- Organización en carpetas: `/css`, `/img`, `/pages`
 
-Tarjetas con imágenes, estilos y botones
+---
 
-Efectos hover, box-shadow y transiciones suaves
+## ✒️ Autor
 
-Paleta moderna (azul, celeste, morado)
+**Marcelo Rodríguez Montes**  
+Estudiante de Negocios Digitales – UPS  
+📧 mrodriguezm9@est.ups.edu.ec  
+🔗 [GitHub - Marcex777](https://github.com/Marcex777)
 
-Footer fijo y organización profesional
+---
 
-✒️ Autor
-Marcelo Rodríguez Montes
-Estudiante de Negocios Digitales – UPS
-📧 mrodriguezm9@est.ups.edu.ec
-🔗 GitHub - Marcex777
+## 🎁 Expresiones de Gratitud
 
-🎁 Expresiones de Gratitud
-Gracias al docente por la guía 👨‍🏫
+- Gracias al docente del taller por la guía 👨‍🏫  
+- Gracias a VS Code, GitHub y Live Server  
+- Si te gustó, ⭐ este repositorio o compártelo ☕  
+- ¡A seguir creando en digital! 🚀
 
-Gracias a GitHub, VS Code y Live Server
+---
 
-Si te gustó, deja una ⭐ o compártelo ☕
-
-¡Buen trabajo equipo y a seguir creciendo! 🚀
+⌨️ Hecho con ❤️ por [Marcex777](https://github.com/Marcex777) – UPS 2025
