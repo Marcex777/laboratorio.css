@@ -22,6 +22,41 @@ git clone https://github.com/Marcex777/emprendimiento-digital.git
 cd emprendimiento-digital
 ```
 
+### ▶️ Ejecutar
+
+Abre `index.html` con tu navegador o usa **Live Server** en VS Code.
+
+---
+
+## 📁 Estructura del Proyecto
+
+```
+emprendimiento-digital/
+│
+├── index.html
+├── servicios.html
+├── nosotros.html
+│
+├── css/
+│   └── estilos.css
+│
+├── img/
+│   ├── logo.png
+│   ├── servicio1.jpg
+│   ├── servicio2.jpg
+│   ├── equipo.jpg
+│   ├── plan_basico.jpg
+│   ├── plan_estandar.jpg
+│   └── plan_premium.jpg
+│
+├── pages/
+│   ├── plan_basico.html
+│   ├── plan_estandar.html
+│   └── plan_premium.html
+│
+└── README.md
+```
+
 ---
 
 ## 🧰 Construido con
